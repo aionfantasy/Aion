@@ -3,21 +3,17 @@
 	<!-- Asmodians -->
 	<guide title="adventurers_guide3_asmo" level="3" race="ASMODIANS" rewardCount="2">
 		<message>
-			<![CDATA[<BR><BR>
-			Greetings. You may not know me, but you will soon
-			enough. Perhaps I can offer some advice? Take or
-			leave it as you will, but either way, I suggest you listen.
-			You may already know that you can rest to regain lost
-			health, but there are also healing items that can restore
-			additional health as time passes. That gets you back in
-			the hunt much quicker! Try one sometime, and see for
-			yourself. In the meantime, try speaking to Kaindal at
-			Aldelle Village--he might have some work for you.
-			<Br><Br><Br><Br>
-			Until next time,
-			<Br><Br><Br><Br>
-			~A friend
-			<br><br>]]>
+			<![CDATA[
+		<br><br>Use el comando <font color="FFC31F"/>.levelup</font> para subir nivel.</br>
+		<br><br>Use el comando <font color="FFC31F"/>.enchant</font> para subir el equipo.</br>
+		<br><br>Use el comando <font color="FFC31F"/>.ffa enter</font> para PvP Libre.</br>
+		<br><br>Use el comando <font color="FFC31F"/>.ely o .asmo</font> para chat Libre.</br>
+		<br><br>Use el comando <font color="F6084F"/>/3</font> para chat general.</br>
+		<br><br>
+		<br><br>Ingresa a nuestra web y <font color="FFC31F"/>usa el codigo de regalo</font></br>
+		<br>Para GP Rank Gratis: <a href="http://goo.gl/JgNd7e">Ver Guia y Codigo de Regalo</a><br>
+		<br>Oficial Web: <font color="F6084F"/>www.aionfantasy.com</font><br>
+		]]>
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>A friend, eh...?</select>
@@ -295,6 +291,9 @@
 		<survey itemId="110900699" count="1"/> <!-- Biker Costume (7 days) -->
 		<survey itemId="110900871" count="1"/> <!-- Burlesque Bunny -->
 		<survey itemId="110900648" count="1"/> <!-- Simple Country Coat (7 days) -->
+		<survey itemId="110901042" count="1"/> <!-- All Business Outfit -->
+		<survey itemId="110900734" count="1"/> <!-- Cogwheel Couture (7 days) -->
+		<survey itemId="110900874" count="1"/> <!-- Silkwoven Scandal -->
 	</guide>
 	<guide title="adventurers_guide54_asmo" level="54" race="ASMODIANS" rewardCount="1">
 		<message>
@@ -369,14 +368,14 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>Blood for blood!</select>
-		<survey itemId="167000954" count="25"/> <!-- [Stamp] Manastone: Attack +5 -->
-		<survey itemId="167000957" count="25"/>
-		<survey itemId="167000961" count="25"/>
-		<survey itemId="167000962" count="25"/>
-		<survey itemId="167000955" count="25"/>
-		<survey itemId="167000959" count="25"/>
-		<survey itemId="167000964" count="25"/>
-		<survey itemId="167000965" count="25"/> <!-- [Stamp] Manastone: Resist Magic +16 -->
+		<survey itemId="167000954" count="30"/> <!-- [Stamp] Manastone: Attack +5 -->
+		<survey itemId="167000957" count="30"/>
+		<survey itemId="167000961" count="30"/>
+		<survey itemId="167000962" count="30"/>
+		<survey itemId="167000955" count="30"/>
+		<survey itemId="167000959" count="30"/>
+		<survey itemId="167000964" count="30"/>
+		<survey itemId="167000965" count="30"/> <!-- [Stamp] Manastone: Resist Magic +16 -->
 	</guide>
 	<guide title="adventurers_guide59_asmo" level="59" race="ASMODIANS" rewardCount="1">
 		<message>
@@ -420,15 +419,17 @@
 	<!-- Elyos -->
 	<guide title="adventurers_guide3_ely" level="3" race="ELYOS" rewardCount="2">
 		<message>
-			<![CDATA[<BR><BR>
-			Greetings, child. You may not realize this yet, but you
-			are very important to me& and to all Elysea. So I will do
-			my best to help you as you travel these lands. Make
-			your way to Akarios Village. You will find a Bind Point
-			there. And take this with you& it is a gift of sorts for
-			your journey. May Ariel's light protect you...and
-			illuminate your past.
-			<br><br>]]>
+			<![CDATA[
+		<br><br>Use el comando <font color="FFC31F"/>.levelup</font> para subir nivel.</br>
+		<br><br>Use el comando <font color="FFC31F"/>.enchant</font> para subir el equipo.</br>
+		<br><br>Use el comando <font color="FFC31F"/>.ffa enter</font> para PvP Libre.</br>
+		<br><br>Use el comando <font color="FFC31F"/>.ely o .asmo</font> para chat Libre.</br>
+		<br><br>Use el comando <font color="F6084F"/>/3</font> para chat general.</br>
+		<br><br>
+		<br><br>Ingresa a nuestra web y <font color="FFC31F"/>usa el codigo de regalo</font></br>
+		<br>Para GP Rank Gratis: <a href="http://goo.gl/JgNd7e">Ver Guia y Codigo de Regalo</a><br>
+		<br>Oficial Web: <font color="F6084F"/>www.aionfantasy.com</font><br>
+		]]>
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>A disembodied voice?!</select>
@@ -655,6 +656,9 @@
 		<survey itemId="110900699" count="1"/> <!-- Biker Costume (7 days) -->
 		<survey itemId="110900871" count="1"/> <!-- Burlesque Bunny -->
 		<survey itemId="110900648" count="1"/> <!-- Simple Country Coat (7 days) -->
+		<survey itemId="110901042" count="1"/> <!-- All Business Outfit -->
+		<survey itemId="110900734" count="1"/> <!-- Cogwheel Couture (7 days) -->
+		<survey itemId="110900874" count="1"/> <!-- Silkwoven Scandal -->
 	</guide>
 	<guide title="adventurers_guide54_ely" level="54" race="ELYOS" rewardCount="1">
 		<message>
@@ -729,14 +733,14 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>Faith and arms!</select>
-		<survey itemId="167000954" count="25"/> <!-- [Stamp] Manastone: Attack +5 -->
-		<survey itemId="167000957" count="25"/>
-		<survey itemId="167000961" count="25"/>
-		<survey itemId="167000962" count="25"/>
-		<survey itemId="167000955" count="25"/>
-		<survey itemId="167000959" count="25"/>
-		<survey itemId="167000964" count="25"/>
-		<survey itemId="167000965" count="25"/> <!-- [Stamp] Manastone: Resist Magic +16 -->
+		<survey itemId="167000954" count="30"/> <!-- [Stamp] Manastone: Attack +5 -->
+		<survey itemId="167000957" count="30"/>
+		<survey itemId="167000961" count="30"/>
+		<survey itemId="167000962" count="30"/>
+		<survey itemId="167000955" count="30"/>
+		<survey itemId="167000959" count="30"/>
+		<survey itemId="167000964" count="30"/>
+		<survey itemId="167000965" count="30"/> <!-- [Stamp] Manastone: Resist Magic +16 -->
 	</guide>
 	<guide title="adventurers_guide59_ely" level="59" race="ELYOS" rewardCount="1">
 		<message>

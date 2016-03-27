@@ -7921,6 +7921,25 @@
 			<drop item_id="152010327" chance="30" min_count="1" max_count="3" name="最下级武器提炼石"  />
 		</drop_group>
 	</npc_drop>
+	<npc_drop npc_id="832261">
+		<drop_group use_category="true" name="KINAH_TOP_MAPS">
+			<drop item_id="182400001" chance="11.55" min_count="100000" max_count="150000" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="HEAL_POTIONS">
+			<drop item_id="162000137" chance="9.55" min_count="6" max_count="10" no_reduce="false" eachmember="false" name="Sublime Life Serum" />
+			<drop item_id="162000139" chance="90" min_count="6" max_count="10" no_reduce="false" eachmember="false" name="Sublime Mana Serum" />
+			<drop item_id="162000141" chance="30" min_count="6" max_count="7" no_reduce="false" eachmember="false" name="Sublime Wind Serum"  />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_MEDALS">
+			<drop item_id="186000242" chance="7.55" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Ceramium Medal" />
+			<drop item_id="186000236" chance="6.55" min_count="1" max_count="10" no_reduce="false" eachmember="false" name="Blood Mark" />
+			<drop item_id="186000414" chance="5.55" min_count="1" max_count="10" no_reduce="false" eachmember="false" name="Blood Medal" />
+			<drop item_id="186000344" chance="5.14" min_count="1" max_count="2" no_reduce="false" eachmember="false" name="Prestige Coin" />
+			<drop item_id="186000147" chance="7.55" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Mithril Medal" />
+			<drop item_id="186000393" chance="3.55" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="Honorable Ceramium Medal" />
+			<drop item_id="186000063" chance="6.55" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Major Ancient Icon" />
+		</drop_group>
+	</npc_drop>
 	<npc_drop npc_id="832262">
 		<drop_group use_category="true" name="KINAH_TOP_MAPS">
 			<drop item_id="182400001" chance="11.55" min_count="100000" max_count="150000" no_reduce="false" eachmember="false" />
@@ -7933,23 +7952,29 @@
 		<drop_group name="MANASTONE_TRADER">
 			<drop item_id="188054205" chance="9.55" min_count="5" max_count="20" no_reduce="false" eachmember="false" name="Superior Manastone Ore" />
 			<drop item_id="188054204" chance="11.55" min_count="5" max_count="20" no_reduce="false" eachmember="false" name="Fine Manastone Ore" />
-			<drop item_id="182007150" chance="30" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="Vicious Mark" />
-			<drop item_id="188508018" chance="20" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="[Motion Card] Stormbringer (7 days)" />
-			<drop item_id="188508006" chance="20" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="[Motion Card] Socialite (7 Days)" />
-			<drop item_id="166030005" chance="3.0" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="Tempering Solution" />
+			<drop item_id="182007150" chance="7.14" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="Vicious Mark" />
+			<drop item_id="188508018" chance="2.10" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="[Motion Card] Stormbringer (7 days)" />
+			<drop item_id="188508006" chance="5.10" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="[Motion Card] Socialite (7 Days)" />
+			<drop item_id="166030005" chance="2.0" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="Tempering Solution" />
+			<drop item_id="186000066" chance="7.14" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Lesser Ancient Icon" />
+			<drop item_id="186000058" chance="7.14" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Lesser Ancient Goblet" />
 		</drop_group>
 		<drop_group use_category="true" name="NAMED_MEDALS">
-			<drop item_id="186000242" chance="35" min_count="1" max_count="5" no_reduce="false" eachmember="false" name="Ceramium Medal" />
-			<drop item_id="186000236" chance="50" min_count="1" max_count="10" no_reduce="false" eachmember="false" name="Blood Mark" />
-			<drop item_id="186000414" chance="8.55" min_count="1" max_count="10" no_reduce="false" eachmember="false" name="Blood Medal" />
-			<drop item_id="186000344" chance="35" min_count="1" max_count="2" no_reduce="false" eachmember="false" name="Prestige Coin" />
+			<drop item_id="186000242" chance="7.55" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Ceramium Medal" />
+			<drop item_id="186000236" chance="6.55" min_count="1" max_count="10" no_reduce="false" eachmember="false" name="Blood Mark" />
+			<drop item_id="186000414" chance="5.55" min_count="1" max_count="10" no_reduce="false" eachmember="false" name="Blood Medal" />
+			<drop item_id="186000344" chance="5.14" min_count="1" max_count="2" no_reduce="false" eachmember="false" name="Prestige Coin" />
+			<drop item_id="186000147" chance="7.55" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Mithril Medal" />
+			<drop item_id="186000393" chance="3.55" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="Honorable Ceramium Medal" />
+			<drop item_id="186000063" chance="6.55" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Major Ancient Icon" />
 		</drop_group>
-		<drop_group name="EVENT_BUNDLEBOX">
-			<drop item_id="188053212" chance="7.55" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="[Event] Dragon Lord's Mythic Weapon Chest" />
+		<drop_group use_category="true" name="EVENT_BUNDLEBOX">
+			<drop item_id="188052387" chance="7.55" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="Hyperion's Equipment Box" />
 			<drop item_id="188051732" chance="5.55" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="[Event] Heroic Godstone Bundle" />
-			<drop item_id="188053007" chance="7.55" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="[Event] Hyperion's Mythic Weapon Chest" />
-			<drop item_id="188053187" chance="8.55" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="[Event] Modor's Mythic Weapon Box" />
-			<drop item_id="186000059" chance="30" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Major Ancient Seal" />
+			<drop item_id="188052718" chance="7.55" min_count="1" max_count="1" no_reduce="false" eachmember="false" name="Hyperion's Weapons Chest" />
+			<drop item_id="186000059" chance="7.55" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Major Ancient Seal" />
+			<drop item_id="186000065" chance="9.45" min_count="1" max_count="5" no_reduce="false" eachmember="false" name="Ancient Icon" />
+			<drop item_id="186000053" chance="8.55" min_count="1" max_count="3" no_reduce="false" eachmember="false" name="Ancient Crown" />
 		</drop_group>
 	</npc_drop>
 	<!-- 300610000 4.81 Entrance -->
