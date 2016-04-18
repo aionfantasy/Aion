@@ -164,7 +164,7 @@
 		<survey itemId="164000325" count="500"/> <!-- [Stamp] Fine Waterproof Scroll -->
 		<survey itemId="164000326" count="500"/> <!-- [Stamp] Fine Windproof Scroll -->
 	</guide>
-	<guide title="adventurers_guide42_asmo" level="42" race="ASMODIANS" rewardCount="5">
+	<guide title="adventurers_guide42_asmo" level="42" race="ASMODIANS" rewardCount="6">
 		<message>
 			<![CDATA[<BR><BR>
 			Congratulations!, Recuerda que si quieres 5.100 de GP,
@@ -177,6 +177,7 @@
 		<survey itemId="186000051" count="19"/> <!-- Major Ancient Crown -->
 		<survey itemId="186000414" count="20"/> <!-- Blood Medal -->
 		<survey itemId="182007150" count="30"/> <!-- Vicious Mark -->
+		<survey itemId="182007149" count="30"/> <!-- Abyssal Fractal -->
 		<survey itemId="188052614" count="1" /> <!-- Defender's Augment Bundle -->
 	</guide>
 	<guide title="adventurers_guide43_asmo" level="43" race="ASMODIANS" rewardCount="1">
@@ -295,6 +296,46 @@
 		<survey itemId="110900734" count="1"/> <!-- Cogwheel Couture (7 days) -->
 		<survey itemId="110900874" count="1"/> <!-- Silkwoven Scandal -->
 	</guide>
+	<guide title="adventurers_guide50_asmo" level="50" race="ASMODIANS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Congratulations!
+			<br><br>]]>
+		</message>
+		<reward_info>Por favor seleccione un item.</reward_info>
+		<select>Blood for blood!</select>
+		<survey itemId="125045302" count="1"/> <!-- Lawful Shades (30 days) -->
+		<survey itemId="125045582" count="1"/> <!-- Ornate Butterfly Hat (1 day) -->
+		<survey itemId="125045208" count="1"/> <!-- Pirate's Bandana (30 days) -->
+		<survey itemId="125045614" count="1"/> <!-- Rainbow Big Wig (1 day) -->
+		<survey itemId="125045180" count="1"/> <!-- Summer Flower (30 days) -->
+	</guide>
+	<guide title="adventurers_guide53_asmo" level="53" race="ASMODIANS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Congratulations!
+			<br><br>]]>
+		</message>
+		<reward_info>Por favor seleccione un item.</reward_info>
+		<select>Blood for blood!</select>
+		<survey itemId="167010106" count="10"/> <!-- [Event] Manastone: Attack +5 / Accuracy +13 -->
+		<survey itemId="167010109" count="10"/>
+		<survey itemId="167010171" count="10"/>
+		<survey itemId="167010107" count="10"/>
+		<survey itemId="167010104" count="10"/>
+		<survey itemId="167010173" count="10"/>
+		<survey itemId="167010105" count="10"/>
+		<survey itemId="167010108" count="10"/>		
+		<survey itemId="167010172" count="10"/>
+		<survey itemId="167010113" count="10"/>
+		<survey itemId="167010112" count="10"/>
+		<survey itemId="167010118" count="10"/>
+		<survey itemId="167010127" count="10"/>		
+		<survey itemId="167010126" count="10"/>
+		<survey itemId="167010135" count="10"/>
+		<survey itemId="167010130" count="10"/>
+		<survey itemId="167010136" count="10"/> <!-- [Event] Manastone: Magical Accuracy +14 / Resist Magic +7 -->
+	</guide>
 	<guide title="adventurers_guide54_asmo" level="54" race="ASMODIANS" rewardCount="1">
 		<message>
 			<![CDATA[<BR><BR>
@@ -368,14 +409,14 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>Blood for blood!</select>
-		<survey itemId="167000954" count="30"/> <!-- [Stamp] Manastone: Attack +5 -->
-		<survey itemId="167000957" count="30"/>
-		<survey itemId="167000961" count="30"/>
-		<survey itemId="167000962" count="30"/>
-		<survey itemId="167000955" count="30"/>
-		<survey itemId="167000959" count="30"/>
-		<survey itemId="167000964" count="30"/>
-		<survey itemId="167000965" count="30"/> <!-- [Stamp] Manastone: Resist Magic +16 -->
+		<survey itemId="167000954" count="35"/> <!-- [Stamp] Manastone: Attack +5 -->
+		<survey itemId="167000957" count="35"/>
+		<survey itemId="167000961" count="35"/>
+		<survey itemId="167000962" count="35"/>
+		<survey itemId="167000955" count="35"/>
+		<survey itemId="167000959" count="35"/>
+		<survey itemId="167000964" count="35"/>
+		<survey itemId="167000965" count="35"/> <!-- [Stamp] Manastone: Resist Magic +16 -->
 	</guide>
 	<guide title="adventurers_guide59_asmo" level="59" race="ASMODIANS" rewardCount="1">
 		<message>
@@ -553,7 +594,7 @@
 		<survey itemId="164000325" count="500"/> <!-- [Stamp] Fine Waterproof Scroll -->
 		<survey itemId="164000326" count="500"/> <!-- [Stamp] Fine Windproof Scroll -->
 	</guide>
-	<guide title="adventurers_guide42_ely" level="42" race="ELYOS" rewardCount="5">
+	<guide title="adventurers_guide42_ely" level="42" race="ELYOS" rewardCount="6">
 		<message>
 			<![CDATA[<BR><BR>
 			Congratulations!, Recuerda que si quieres 5.100 de GP,
@@ -566,6 +607,7 @@
 		<survey itemId="186000051" count="19"/> <!-- Major Ancient Crown -->
 		<survey itemId="186000414" count="20"/> <!-- Blood Medal -->
 		<survey itemId="182007150" count="30"/> <!-- Vicious Mark -->
+		<survey itemId="182007149" count="30"/> <!-- Abyssal Fractal -->
 		<survey itemId="188052614" count="1" /> <!-- Defender's Augment Bundle -->
 	</guide>
 	<guide title="adventurers_guide43_ely" level="43" race="ELYOS" rewardCount="1">
@@ -652,13 +694,53 @@
 			<br><br>]]>
 		</message>
 		<reward_info>Por favor seleccione un item.</reward_info>
-		<select>Blood for blood!</select>
+		<select>Faith and arms!</select>
 		<survey itemId="110900699" count="1"/> <!-- Biker Costume (7 days) -->
 		<survey itemId="110900871" count="1"/> <!-- Burlesque Bunny -->
 		<survey itemId="110900648" count="1"/> <!-- Simple Country Coat (7 days) -->
 		<survey itemId="110901042" count="1"/> <!-- All Business Outfit -->
 		<survey itemId="110900734" count="1"/> <!-- Cogwheel Couture (7 days) -->
 		<survey itemId="110900874" count="1"/> <!-- Silkwoven Scandal -->
+	</guide>
+	<guide title="adventurers_guide50_ely" level="50" race="ELYOS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Congratulations!
+			<br><br>]]>
+		</message>
+		<reward_info>Por favor seleccione un item.</reward_info>
+		<select>Faith and arms!</select>
+		<survey itemId="125045302" count="1"/> <!-- Lawful Shades (30 days) -->
+		<survey itemId="125045582" count="1"/> <!-- Ornate Butterfly Hat (1 day) -->
+		<survey itemId="125045208" count="1"/> <!-- Pirate's Bandana (30 days) -->
+		<survey itemId="125045614" count="1"/> <!-- Rainbow Big Wig (1 day) -->
+		<survey itemId="125045180" count="1"/> <!-- Summer Flower (30 days) -->
+	</guide>
+	<guide title="adventurers_guide53_ely" level="53" race="ELYOS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Congratulations!
+			<br><br>]]>
+		</message>
+		<reward_info>Por favor seleccione un item.</reward_info>
+		<select>Faith and arms!</select>
+		<survey itemId="167010106" count="10"/> <!-- [Event] Manastone: Attack +5 / Accuracy +13 -->
+		<survey itemId="167010109" count="10"/>
+		<survey itemId="167010171" count="10"/>
+		<survey itemId="167010107" count="10"/>
+		<survey itemId="167010104" count="10"/>
+		<survey itemId="167010173" count="10"/>
+		<survey itemId="167010105" count="10"/>
+		<survey itemId="167010108" count="10"/>		
+		<survey itemId="167010172" count="10"/>
+		<survey itemId="167010113" count="10"/>
+		<survey itemId="167010112" count="10"/>
+		<survey itemId="167010118" count="10"/>
+		<survey itemId="167010127" count="10"/>		
+		<survey itemId="167010126" count="10"/>
+		<survey itemId="167010135" count="10"/>
+		<survey itemId="167010130" count="10"/>
+		<survey itemId="167010136" count="10"/> <!-- [Event] Manastone: Magical Accuracy +14 / Resist Magic +7 -->
 	</guide>
 	<guide title="adventurers_guide54_ely" level="54" race="ELYOS" rewardCount="1">
 		<message>
@@ -733,14 +815,14 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>Faith and arms!</select>
-		<survey itemId="167000954" count="30"/> <!-- [Stamp] Manastone: Attack +5 -->
-		<survey itemId="167000957" count="30"/>
-		<survey itemId="167000961" count="30"/>
-		<survey itemId="167000962" count="30"/>
-		<survey itemId="167000955" count="30"/>
-		<survey itemId="167000959" count="30"/>
-		<survey itemId="167000964" count="30"/>
-		<survey itemId="167000965" count="30"/> <!-- [Stamp] Manastone: Resist Magic +16 -->
+		<survey itemId="167000954" count="35"/> <!-- [Stamp] Manastone: Attack +5 -->
+		<survey itemId="167000957" count="35"/>
+		<survey itemId="167000961" count="35"/>
+		<survey itemId="167000962" count="35"/>
+		<survey itemId="167000955" count="35"/>
+		<survey itemId="167000959" count="35"/>
+		<survey itemId="167000964" count="35"/>
+		<survey itemId="167000965" count="35"/> <!-- [Stamp] Manastone: Resist Magic +16 -->
 	</guide>
 	<guide title="adventurers_guide59_ely" level="59" race="ELYOS" rewardCount="1">
 		<message>

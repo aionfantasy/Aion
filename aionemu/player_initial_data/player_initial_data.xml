@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_initial_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="player_initial_data.xsd">
+	<asmodian_spawn_location map_id="400010000" heading="94" x="1286.4912" y="3149.3623" z="3040.8835"/>
+	<elyos_spawn_location map_id="400010000" heading="33" x="2409.4438" y="361.89334" z="2945.3445"/>
+	<player_data class="WARRIOR">
+		<equipment_items>
+			<item id="100000094" count="1"/>
+			<item id="110500003" count="1"/>
+			<item id="113500001" count="1"/>
+		</equipment_items>
+		<inventory_items>
+			<item id="182400001" count="100000"/>
+			<item id="160000001" count="12"/>
+			<item id="169300002" count="20"/>
+			<item id="162000052" count="100"/>
+			<item id="162000057" count="100"/>
+		</inventory_items>
+	</player_data>
+	<player_data class="MAGE">
+		<equipment_items>
+			<item id="100600034" count="1"/>
+			<item id="110100009" count="1"/>
+			<item id="113100005" count="1"/>
+		</equipment_items>
+		<inventory_items>
+			<item id="182400001" count="100000"/>
+			<item id="160000001" count="12"/>
+			<item id="169300002" count="20"/>
+			<item id="162000052" count="100"/>
+			<item id="162000057" count="100"/>
+		</inventory_items>
+	</player_data>
+	<player_data class="PRIEST">
+		<equipment_items>
+			<item id="100100011" count="1"/>
+			<item id="110300292" count="1"/>
+			<item id="113300278" count="1"/>
+		</equipment_items>
+		<inventory_items>
+			<item id="182400001" count="100000"/>
+			<item id="160000001" count="12"/>
+			<item id="169300002" count="20"/>
+			<item id="162000052" count="100"/>
+			<item id="162000057" count="100"/>
+		</inventory_items>
+	</player_data>
+	<player_data class="SCOUT">
+		<equipment_items>
+			<item id="100200112" count="1"/>
+			<item id="110300015" count="1"/>
+			<item id="113300005" count="1"/>
+		</equipment_items>
+		<inventory_items>
+			<item id="182400001" count="100000"/>
+			<item id="160000001" count="12"/>
+			<item id="169300002" count="20"/>
+			<item id="162000052" count="100"/>
+			<item id="162000057" count="100"/>
+		</inventory_items>
+	</player_data>
+	
+		<player_data class="ENGINEER">
+		<equipment_items>
+			<item id="101800181" count="1"/>
+			<item id="110301667" count="1"/>
+			<item id="113301636" count="1"/>
+		</equipment_items>
+		<inventory_items>
+			<item id="182400001" count="100000"/>
+			<item id="160000001" count="12"/>
+			<item id="169300002" count="20"/>
+			<item id="162000052" count="100"/>
+			<item id="162000057" count="100"/>
+		</inventory_items>
+	</player_data>
+	<player_data class="ARTIST">
+		<equipment_items>
+			<item id="102000194" count="1"/>
+			<item id="110101658" count="1"/>
+			<item id="113101509" count="1"/>
+		</equipment_items>
+		<inventory_items>
+			<item id="182400001" count="100000"/>
+			<item id="160000001" count="12"/>
+			<item id="169300002" count="20"/>
+			<item id="162000052" count="100"/>
+			<item id="162000057" count="100"/>
+		</inventory_items>
+	</player_data>
+</player_initial_data>

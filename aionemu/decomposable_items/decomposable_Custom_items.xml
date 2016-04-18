@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decomposable_items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="decomposable_items.xsd">
+    <!-- ELYOS LevL 9 -->
+    <decomposable item_id="188052837" level="9">
+        <items>
+            <item id="188052841" count="1"/>
+            <item id="169630001" count="1"/>
+            <item id="162001005" count="150"/>
+            <item id="162001006" count="150"/>
+            <item id="188900000" count="8"/>
+        </items>
+		<items chance="90">
+			<item id="188052834"/>
+		</items>
+		<items chance="50">
+			<item id="188052835"/>
+		</items>
+		<items chance="30">
+			<item id="188052836"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052834">
+        <items>
+            <item id="162001005" count="50"/>
+            <item id="162001006" count="50"/>
+            <item id="188900000" count="8"/>
+            <item id="188052841" count="1"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052835">
+        <items>
+            <item id="169620001" count="10"/>
+            <item id="188052841" count="1"/>
+            <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052836">
+        <items>
+            <item id="169630002" count="1"/>
+            <item id="188052841" count="1"/>
+	        <item id="188900000" count="8"/>		
+        </items>
+    </decomposable>
+    <!-- ELYOS LevL 19 -->
+    <decomposable item_id="188052841" level="19">
+        <items>
+            <item id="188052845" count="1"/>
+            <item id="188900000" count="8"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052838"/>
+		</items>
+		<items chance="50">
+			<item id="188052839"/>
+		</items>
+		<items chance="30">
+			<item id="188052840"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052838">
+        <items>
+            <item id="164002002" count="50"/>
+            <item id="164002003" count="50"/>
+            <item id="164002004" count="50"/>
+            <item id="188900000" count="8"/>
+            <item id="188052845" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052839">
+        <items>
+            <item id="169620002" count="10"/>
+            <item id="188052845" count="1"/>
+		    <item id="188900000" count="8"/>	
+        </items>
+    </decomposable>
+    <decomposable item_id="188052840">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052845" count="1"/>
+		    <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <!-- ELYOS LevL 29 -->
+    <decomposable item_id="188052845" level="29">
+        <items>
+            <item id="188052849" count="1"/>
+            <item id="188900000" count="8"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052842"/>
+		</items>
+		<items chance="50">
+			<item id="188052843"/>
+		</items>
+		<items chance="30">
+			<item id="188052844"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052842">
+        <items>
+            <item id="164002058" count="50"/>
+            <item id="164002059" count="50"/>
+		    <item id="188900000" count="8"/>
+            <item id="188052849" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052843">
+        <items>
+            <item id="169620003" count="10"/>
+            <item id="188052849" count="1"/>
+		    <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052844">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052849" count="1"/>	
+		    <item id="188900000" count="8"/>		
+        </items>
+    </decomposable>
+    <!-- ELYOS LevL 39 -->
+    <decomposable item_id="188052849" level="39">
+        <items>
+            <item id="188052853" count="1"/>
+            <item id="188900000" count="8"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052846"/>
+		</items>
+		<items chance="50">
+			<item id="188052847"/>
+		</items>
+		<items chance="30">
+			<item id="188052848"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052846">
+        <items>
+            <item id="164002010" count="50"/>
+            <item id="164002011" count="50"/>
+            <item id="164002012" count="50"/>
+		    <item id="188900000" count="8"/>
+            <item id="188052853" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052847">
+        <items>
+            <item id="169620005" count="10"/>
+            <item id="188052853" count="1"/>
+		    <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052848">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052853" count="1"/>	
+		    <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <!-- ELYOS LevL 49 -->
+    <decomposable item_id="188052853" level="49">
+        <items>
+            <item id="188052857" count="1"/>
+            <item id="188900000" count="8"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052850"/>
+		</items>
+		<items chance="50">
+			<item id="188052851"/>
+		</items>
+		<items chance="30">
+			<item id="188052852"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052850">
+        <items>
+            <item id="164002007" count="50"/>
+            <item id="188052857" count="1"/>	
+		    <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052851">
+        <items>
+            <item id="169630001" count="1"/>
+            <item id="188052857" count="1"/>	
+		    <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052852">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052857" count="1"/>	
+		    <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <!-- ELYOS LevL 54 -->
+    <decomposable item_id="188052857" level="54">
+        <items>
+            <item id="188052861" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052854"/>
+		</items>
+		<items chance="50">
+			<item id="188052855"/>
+		</items>
+		<items chance="30">
+			<item id="188052856"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052854">
+        <items>
+            <item id="164002116" count="50"/>
+            <item id="164002117" count="50"/>
+            <item id="164002118" count="50"/>
+            <item id="188900001" count="5"/>
+            <item id="188052861" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052855">
+        <items>
+            <item id="169630002" count="1"/>
+            <item id="188052861" count="1"/>	
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052856">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052861" count="1"/>
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <!-- ELYOS LevL 59 -->
+    <decomposable item_id="188052861" level="59">
+        <items>
+            <item id="188052865" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052858"/>
+		</items>
+		<items chance="50">
+			<item id="188052859"/>
+		</items>
+		<items chance="30">
+			<item id="188052860"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052858">
+        <items>
+            <item id="190100065" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="188052865" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052859">
+        <items>
+            <item id="110900655" count="1"/>
+            <item id="188052865" count="1"/>
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052860">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052865" count="1"/>	
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <!-- ELYOS LevL 64 -->
+    <decomposable item_id="188052865" level="64">
+        <items>
+            <item id="188052869" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052862"/>
+		</items>
+		<items chance="50">
+			<item id="188052863"/>
+		</items>
+		<items chance="30">
+			<item id="188052864"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052862">
+        <items>
+            <item id="169600203" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="188052869" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052863">
+        <items>
+            <item id="169610081" count="1"/>
+            <item id="188052869" count="1"/>
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052864">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052869" count="1"/>	
+	        <item id="188900001" count="5"/>		
+        </items>
+    </decomposable>
+    <!-- ELYOS LevL 65 -->
+    <decomposable item_id="188052869" level="65">
+        <items>
+            <item id="188052845" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+			<item id="100901208" player_class="GLADIATOR"/>
+			<item id="100001553" player_class="TEMPLAR"/>
+			<item id="100101189" player_class="CLERIC"/>
+			<item id="100101189" player_class="CHANTER"/>
+			<item id="100001553" player_class="ASSASSIN"/>
+			<item id="101701238" player_class="RANGER"/>
+			<item id="100501188" player_class="SORCERER"/>
+			<item id="100501188" player_class="SPIRIT_MASTER"/>
+			<item id="101801019" player_class="GUNNER"/>
+			<item id="102001045" player_class="BARD"/>
+        </items>
+		<items chance="90">
+			<item id="188052866"/>
+		</items>
+		<items chance="50">
+			<item id="188052867"/>
+		</items>
+		<items chance="30">
+			<item id="188052868"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052866">
+        <items>
+            <item id="187060093" count="1"/>
+            <item id="188900001" count="5"/>
+        </items>
+    </decomposable>
+    <decomposable item_id="188052867">
+        <items>
+            <item id="188910002" count="100"/>
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052868">
+        <items>
+            <item id="188710089" count="2"/>	
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 9 -->
+    <decomposable item_id="188052873" level="9">
+        <items>
+            <item id="188052877" count="1"/>
+            <item id="169630001" count="1"/>
+            <item id="162001005" count="150"/>
+            <item id="162001006" count="150"/>
+            <item id="188900000" count="8"/>
+        </items>
+		<items chance="90">
+			<item id="188052870"/>
+		</items>
+		<items chance="50">
+			<item id="188052871"/>
+		</items>
+		<items chance="30">
+			<item id="188052872"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052870">
+        <items>
+            <item id="162001005" count="50"/>
+            <item id="162001006" count="50"/>
+            <item id="188900000" count="8"/>
+            <item id="188052877" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052871">
+        <items>
+            <item id="169620001" count="10"/>
+            <item id="188052877" count="1"/>
+            <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052872">
+        <items>
+            <item id="169630002" count="1"/>
+            <item id="188052877" count="1"/>
+	        <item id="188900000" count="8"/>		
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 19 -->
+    <decomposable item_id="188052877" level="19">
+        <items>
+            <item id="188052881" count="1"/>
+            <item id="188900000" count="8"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052874"/>
+		</items>
+		<items chance="50">
+			<item id="188052875"/>
+		</items>
+		<items chance="30">
+			<item id="188052876"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052874">
+        <items>
+            <item id="164002002" count="50"/>
+            <item id="164002003" count="50"/>
+            <item id="164002004" count="50"/>
+            <item id="188900000" count="8"/>
+            <item id="188052881" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052875">
+        <items>
+            <item id="169620002" count="10"/>
+            <item id="188052881" count="1"/>
+	        <item id="188900000" count="8"/>		
+        </items>
+    </decomposable>
+    <decomposable item_id="188052876">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052881" count="1"/>
+	        <item id="188900000" count="8"/>		
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 29 -->
+    <decomposable item_id="188052881" level="29">
+        <items>
+            <item id="188052885" count="1"/>
+            <item id="188900000" count="8"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052878"/>
+		</items>
+		<items chance="50">
+			<item id="188052879"/>
+		</items>
+		<items chance="30">
+			<item id="188052880"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052878">
+        <items>
+            <item id="164002058" count="50"/>
+            <item id="164002059" count="50"/>
+            <item id="188900000" count="8"/>
+            <item id="188052885" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052879">
+        <items>
+            <item id="169620003" count="10"/>
+            <item id="188052885" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052880">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052885" count="1"/>			
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 39 -->
+    <decomposable item_id="188052885" level="39">
+        <items>
+            <item id="188052889" count="1"/>
+            <item id="188900000" count="8"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052882"/>
+		</items>
+		<items chance="50">
+			<item id="188052883"/>
+		</items>
+		<items chance="30">
+			<item id="188052884"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052882">
+        <items>
+            <item id="164002010" count="50"/>
+            <item id="164002011" count="50"/>
+            <item id="164002012" count="50"/>
+            <item id="188900000" count="8"/>
+            <item id="188052889" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052883">
+        <items>
+            <item id="169620005" count="5"/>
+            <item id="188052889" count="1"/>
+            <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052884">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052889" count="1"/>
+            <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 49 -->
+    <decomposable item_id="188052889" level="49">
+        <items>
+            <item id="188052893" count="1"/>
+            <item id="188900000" count="8"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052886"/>
+		</items>
+		<items chance="50">
+			<item id="188052887"/>
+		</items>
+		<items chance="30">
+			<item id="188052888"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052886">
+        <items>
+            <item id="164002008" count="50"/>
+            <item id="188052893" count="1"/>
+	        <item id="188900000" count="8"/>		
+        </items>
+    </decomposable>
+    <decomposable item_id="188052887">
+        <items>
+            <item id="169630001" count="1"/>
+            <item id="188052893" count="1"/>	
+            <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052888">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052893" count="1"/>	
+            <item id="188900000" count="8"/>			
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 54 -->
+    <decomposable item_id="188052893" level="54">
+        <items>
+            <item id="188052897" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052890"/>
+		</items>
+		<items chance="50">
+			<item id="188052891"/>
+		</items>
+		<items chance="30">
+			<item id="188052892"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052890">
+        <items>
+            <item id="164002116" count="50"/>
+            <item id="164002117" count="50"/>
+            <item id="164002118" count="50"/>
+            <item id="188900001" count="5"/>
+            <item id="188052897" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052891">
+        <items>
+            <item id="169630002" count="1"/>
+            <item id="188052897" count="1"/>
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052892">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052897" count="1"/>
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 59 -->
+    <decomposable item_id="188052897" level="55">
+        <items>
+            <item id="188052901" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052894"/>
+		</items>
+		<items chance="50">
+			<item id="188052895"/>
+		</items>
+		<items chance="30">
+			<item id="188052896"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052894">
+        <items>
+            <item id="190100065" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="188052901" count="1"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052895">
+        <items>
+            <item id="110900655" count="1"/>
+            <item id="188052901" count="1"/>
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052896">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052901" count="1"/>
+	            <item id="188900001" count="5"/>		
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 64 -->
+    <decomposable item_id="188052901" level="64">
+        <items>
+            <item id="188052905" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+        </items>
+		<items chance="90">
+			<item id="188052898"/>
+		</items>
+		<items chance="50">
+			<item id="188052899"/>
+		</items>
+		<items chance="30">
+			<item id="188052900"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052898">
+        <items>
+            <item id="169600203" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="188052905" count="1"/>		
+        </items>
+    </decomposable>
+    <decomposable item_id="188052899">
+        <items>
+            <item id="169610081" count="1"/>
+            <item id="188052905" count="1"/>	
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <decomposable item_id="188052900">
+        <items>
+            <item id="166000190" count="1"/>
+            <item id="188052905" count="1"/>	
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <!-- ASMODIANS LevL 65 -->
+    <decomposable item_id="188052905" level="65">
+        <items>
+            <item id="188052845" count="1"/>
+            <item id="188900001" count="5"/>
+            <item id="162000016" count="30"/>
+            <item id="162000021" count="30"/>
+            <item id="164000076" count="30"/>
+            <item id="164000079" count="30"/>
+			<item id="100901208" player_class="GLADIATOR"/>
+			<item id="100001553" player_class="TEMPLAR"/>
+			<item id="100101189" player_class="CLERIC"/>
+			<item id="100101189" player_class="CHANTER"/>
+			<item id="100001553" player_class="ASSASSIN"/>
+			<item id="101701238" player_class="RANGER"/>
+			<item id="100501188" player_class="SORCERER"/>
+			<item id="100501188" player_class="SPIRIT_MASTER"/>
+			<item id="101801019" player_class="GUNNER"/>
+			<item id="102001045" player_class="BARD"/>
+        </items>
+		<items chance="90">
+			<item id="188052902"/>
+		</items>
+		<items chance="50">
+			<item id="188052903"/>
+		</items>
+		<items chance="30">
+			<item id="188052904"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188052902">
+        <items>
+            <item id="187060093" count="1"/>
+            <item id="188900001" count="5"/>		
+        </items>
+    </decomposable>
+    <decomposable item_id="188052903">
+        <items>
+            <item id="188910003" count="100"/>
+	        <item id="188900001" count="5"/>		
+        </items>
+    </decomposable>
+    <decomposable item_id="188052904">
+        <items>
+            <item id="188710089" count="2"/>
+            <item id="188900001" count="5"/>			
+        </items>
+    </decomposable>
+    <!-- Custom ingameshop items -->
+    <decomposable item_id="188052940">
+		<items chance="30">
+			<item id="166000190" count="1"/>
+		</items>
+		<items chance="40">
+			<item id="166000190" count="2"/>
+		</items>
+		<items chance="20">
+			<item id="166000190" count="3"/>
+		</items>
+    </decomposable>
+    <!-- Custom items -->
+	<decomposable item_id="188053189">
+		<items chance="60">
+			<item id="188710090" />
+			<item id="166000190" count="1" />						
+		</items>
+		<items chance="50">
+			<item id="100001509" player_class="ASSASSIN"/>
+			<item id="100001509" player_class="TEMPLAR"/>
+			<item id="100101156" player_class="CLERIC"/>
+			<item id="100101156" player_class="CHANTER"/>
+			<item id="100501162" player_class="SORCERER"/>
+			<item id="100501162" player_class="SPIRIT_MASTER"/>
+			<item id="100901172" player_class="GLADIATOR"/>
+			<item id="101701206" player_class="RANGER"/>
+			<item id="101800968" player_class="GUNNER"/>
+			<item id="102001011" player_class="BARD"/>		
+		</items>
+	</decomposable>
+	<decomposable item_id="188053190">
+		<items chance="60">
+			<item id="188710090" />
+			<item id="166000190" count="1" />						
+		</items>
+		<items chance="50">
+			<item id="110301465" player_class="ASSASSIN"/>
+			<item id="110601401" player_class="TEMPLAR"/>
+			<item id="110501426" player_class="CLERIC"/>
+			<item id="110501426" player_class="CHANTER"/>
+			<item id="110101568" player_class="SORCERER"/>
+			<item id="110101568" player_class="SPIRIT_MASTER"/>
+			<item id="110601401" player_class="GLADIATOR"/>
+			<item id="110301465" player_class="RANGER"/>
+			<item id="110601401" player_class="GUNNER"/>
+			<item id="110101568" player_class="BARD"/>				
+		</items>
+	</decomposable>
+	<decomposable item_id="188053191">
+		<items chance="60">
+			<item id="188710090" />
+			<item id="166000190" count="1" />						
+		</items>
+		<items chance="50">
+			<item id="113301430" player_class="ASSASSIN"/>
+			<item id="113601353" player_class="TEMPLAR"/>
+			<item id="113501400" player_class="CLERIC"/>
+			<item id="113501400" player_class="CHANTER"/>
+			<item id="113101431" player_class="SORCERER"/>
+			<item id="113101431" player_class="SPIRIT_MASTER"/>
+			<item id="113601353" player_class="GLADIATOR"/>
+			<item id="113301430" player_class="RANGER"/>
+			<item id="113601353" player_class="GUNNER"/>
+			<item id="113101431" player_class="BARD"/>					
+		</items>
+	</decomposable>
+	<decomposable item_id="188053192">
+		<items chance="60">
+			<item id="188710090" />
+			<item id="166000190" count="1" />						
+		</items>
+		<items chance="50">
+			<item id="112301349" player_class="ASSASSIN"/>
+			<item id="112601345" player_class="TEMPLAR"/>
+			<item id="112501325" player_class="CLERIC"/>
+			<item id="112501325" player_class="CHANTER"/>
+			<item id="112101367" player_class="SORCERER"/>
+			<item id="112101367" player_class="SPIRIT_MASTER"/>
+			<item id="112601345" player_class="GLADIATOR"/>
+			<item id="112301349" player_class="RANGER"/>
+			<item id="112601345" player_class="GUNNER"/>
+			<item id="112101367" player_class="BARD"/>					
+		</items>
+	</decomposable>
+	<decomposable item_id="188053193">
+		<items chance="60">
+			<item id="188710090" />
+			<item id="166000190" count="1" />						
+		</items>
+		<items chance="50">
+			<item id="111301405" player_class="ASSASSIN"/>
+			<item id="111601363" player_class="TEMPLAR"/>
+			<item id="111501383" player_class="CLERIC"/>
+			<item id="111501383" player_class="CHANTER"/>
+			<item id="111101413" player_class="SORCERER"/>
+			<item id="111101413" player_class="SPIRIT_MASTER"/>
+			<item id="111601363" player_class="GLADIATOR"/>
+			<item id="111301405" player_class="RANGER"/>
+			<item id="111601363" player_class="GUNNER"/>
+			<item id="111101413" player_class="BARD"/>					
+		</items>
+	</decomposable>
+	<decomposable item_id="188053194">
+		<items chance="60">
+			<item id="188710090" />
+			<item id="166000190" count="1" />						
+		</items>
+		<items chance="50">
+			<item id="114301466" player_class="ASSASSIN"/>
+			<item id="114601351" player_class="TEMPLAR"/>
+			<item id="114501408" player_class="CLERIC"/>
+			<item id="114501408" player_class="CHANTER"/>
+			<item id="114101460" player_class="SORCERER"/>
+			<item id="114101460" player_class="SPIRIT_MASTER"/>
+			<item id="114601351" player_class="GLADIATOR"/>
+			<item id="114301466" player_class="RANGER"/>
+			<item id="114601351" player_class="GUNNER"/>
+			<item id="114101460" player_class="BARD"/>					
+		</items>
+	</decomposable>
+    <decomposable item_id="188053129">
+		<items chance="30">
+			<item id="188053512" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="40">
+			<item id="188053511" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="20">
+			<item id="188920040" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="20">
+			<item id="188920039" rnd_min="1" rnd_max="3"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188053130">
+		<items chance="30">
+			<item id="188053512" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="40">
+			<item id="188053511" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="20">
+			<item id="188920040" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="20">
+			<item id="188920039" rnd_min="1" rnd_max="3"/>
+		</items>
+    </decomposable>
+    <decomposable item_id="188053131">
+		<items chance="30">
+			<item id="188053512" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="40">
+			<item id="188053511" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="20">
+			<item id="188920040" rnd_min="1" rnd_max="3"/>
+		</items>
+		<items chance="20">
+			<item id="188920039" rnd_min="1" rnd_max="3"/>
+		</items>
+    </decomposable>		
+	<decomposable item_id="188054025">
+		<items chance="50">
+			<item id="166020000" count="1" />						
+		</items>
+		<items chance="40">
+			<item id="166500002" count="1" />						
+		</items>
+		<items chance="60">
+			<item id="166020001" count="1" />						
+		</items>
+	</decomposable>	
+    <decomposable item_id="188054099">
+		<items chance="50">
+			<item id="166020000" count="1" />						
+		</items>
+		<items chance="40">
+			<item id="188053308" count="1" />						
+		</items>
+		<items chance="40">
+			<item id="166500002" count="1" />						
+		</items>
+		<items chance="60">
+			<item id="166020001" count="1" />						
+		</items>
+	</decomposable>	
+	<decomposable item_id="188053895" decomposable_name="Lucky Box">
+		<items>
+			<item id="188052614" count="1" name="Defender's Augment Bundle" />
+			<item id="182400001" count="1000000" name="Kinah" />
+			<item id="186000242" count="150" name="Ceramium Medal" />
+			<item id="162000023" count="750" name="Greater Healing Potion" />
+			<item id="186000414" count="50" name="Blood Medal" />
+			<item id="182007149" count="100" name="Abyssal Fractal" />
+			<item id="182007150" count="100" name="Vicious Mark" />						
+		</items>
+	</decomposable>
+</decomposable_items>
