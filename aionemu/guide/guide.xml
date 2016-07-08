@@ -17,9 +17,9 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>A friend, eh...?</select>
-		<survey itemId="164000339" count="100"/> <!-- [Abbey] Greater Awakening Scroll -->
-		<survey itemId="164000338" count="100"/> <!-- [Abbey] Greater Courage Scroll -->
-		<survey itemId="164000337" count="100"/> <!-- [Abbey] Greater Running Scroll -->
+		<survey itemId="164002118" count="100"/> <!-- [Event] Rx: Castafodin -->
+		<survey itemId="164002117" count="100"/> <!-- [Event] Rx: Blitzopan -->
+		<survey itemId="164002116" count="100"/> <!-- [Event] Rx: Accelerox -->
 	</guide>
 	<guide title="adventurers_guide9_asmo" level="9" race="ASMODIANS" rewardCount="2">
 		<message>
@@ -41,9 +41,9 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>Blood for blood!</select>
-		<survey itemId="164000339" count="100"/> <!-- [Abbey] Greater Awakening Scroll -->
-		<survey itemId="164000338" count="100"/> <!-- [Abbey] Greater Courage Scroll -->
-		<survey itemId="164000337" count="100"/> <!-- [Abbey] Greater Running Scroll -->
+		<survey itemId="164002118" count="100"/> <!-- [Event] Rx: Castafodin -->
+		<survey itemId="164002117" count="100"/> <!-- [Event] Rx: Blitzopan -->
+		<survey itemId="164002116" count="100"/> <!-- [Event] Rx: Accelerox -->
 	</guide>
 	<guide title="adventurers_guide11_asmo" level="11" race="ASMODIANS" rewardCount="2">
 		<message>
@@ -65,9 +65,9 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>Blood for blood!</select>
-		<survey itemId="164000339" count="100"/> <!-- [Abbey] Greater Awakening Scroll -->
-		<survey itemId="164000338" count="100"/> <!-- [Abbey] Greater Courage Scroll -->
-		<survey itemId="164000337" count="100"/> <!-- [Abbey] Greater Running Scroll -->
+		<survey itemId="164002118" count="100"/> <!-- [Event] Rx: Castafodin -->
+		<survey itemId="164002117" count="100"/> <!-- [Event] Rx: Blitzopan -->
+		<survey itemId="164002116" count="100"/> <!-- [Event] Rx: Accelerox -->
 	</guide>
 	<guide title="adventurers_guide12_asmo" level="12" race="ASMODIANS" rewardCount="1">
 		<message>
@@ -128,6 +128,19 @@
 		<select>Blood for blood!</select>
 		<survey itemId="187060162" count="1"/> <!-- Wings of Agony -->
 		<survey itemId="187000121" count="1"/> <!-- Hyperion Wings -->
+	</guide>
+	<guide title="adventurers_guide19_asmo" level="19" race="ASMODIANS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Congratulations!
+			<br><br>]]>
+		</message>
+		<reward_info>Por favor seleccione un item.</reward_info>
+		<select>Faith and arms!</select>
+		<survey itemId="187060194" count="1"/> <!-- Greatful Wings (1 day) -->
+		<survey itemId="187060197" count="1"/> <!-- Magma Wings (1-day) -->
+		<survey itemId="187060208" count="1"/> <!-- Red Armor Wings (1-day) -->
+		<survey itemId="187060191" count="1"/> <!-- Dragon Breath Wings (1-day) -->
 	</guide>
 	<guide title="adventurers_guide32_asmo" level="32" race="ASMODIANS" rewardCount="1">
 		<message>
@@ -295,6 +308,7 @@
 		<survey itemId="110901042" count="1"/> <!-- All Business Outfit -->
 		<survey itemId="110900734" count="1"/> <!-- Cogwheel Couture (7 days) -->
 		<survey itemId="110900874" count="1"/> <!-- Silkwoven Scandal -->
+		<survey itemId="110900832" count="1"/> <!-- Astronaut's Costume (1 Day) -->
 	</guide>
 	<guide title="adventurers_guide50_asmo" level="50" race="ASMODIANS" rewardCount="1">
 		<message>
@@ -455,7 +469,7 @@
 			<br><br>]]>
 		</message>
 		<select>Blood for blood!</select>
-		<survey itemId="162000023" count="100"/> <!-- Greater Healing Potion -->
+		<survey itemId="162000023" count="10"/> <!-- Greater Healing Potion -->
 	</guide>
 	<!-- Elyos -->
 	<guide title="adventurers_guide3_ely" level="3" race="ELYOS" rewardCount="2">
@@ -474,9 +488,9 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>A disembodied voice?!</select>
-		<survey itemId="164000339" count="100"/> <!-- [Abbey] Greater Awakening Scroll -->
-		<survey itemId="164000338" count="100"/> <!-- [Abbey] Greater Courage Scroll -->
-		<survey itemId="164000337" count="100"/> <!-- [Abbey] Greater Running Scroll -->
+		<survey itemId="164002118" count="100"/> <!-- [Event] Rx: Castafodin -->
+		<survey itemId="164002117" count="100"/> <!-- [Event] Rx: Blitzopan -->
+		<survey itemId="164002116" count="100"/> <!-- [Event] Rx: Accelerox -->
 	</guide>
 	<guide title="adventurers_guide9_ely" level="9" race="ELYOS" rewardCount="2">
 		<message>
@@ -494,9 +508,9 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>Faith and arms!</select>
-		<survey itemId="164000339" count="100"/> <!-- [Abbey] Greater Awakening Scroll -->
-		<survey itemId="164000338" count="100"/> <!-- [Abbey] Greater Courage Scroll -->
-		<survey itemId="164000337" count="100"/> <!-- [Abbey] Greater Running Scroll -->
+		<survey itemId="164002118" count="100"/> <!-- [Event] Rx: Castafodin -->
+		<survey itemId="164002117" count="100"/> <!-- [Event] Rx: Blitzopan -->
+		<survey itemId="164002116" count="100"/> <!-- [Event] Rx: Accelerox -->
 	</guide>
 	<guide title="adventurers_guide11_ely" level="11" race="ELYOS" rewardCount="2">
 		<message>
@@ -506,9 +520,9 @@
 		</message>
 		<reward_info>Por favor seleccione dos item.</reward_info>
 		<select>Faith and arms!</select>
-		<survey itemId="164000339" count="100"/> <!-- [Abbey] Greater Awakening Scroll -->
-		<survey itemId="164000338" count="100"/> <!-- [Abbey] Greater Courage Scroll -->
-		<survey itemId="164000337" count="100"/> <!-- [Abbey] Greater Running Scroll -->
+		<survey itemId="164002118" count="100"/> <!-- [Event] Rx: Castafodin -->
+		<survey itemId="164002117" count="100"/> <!-- [Event] Rx: Blitzopan -->
+		<survey itemId="164002116" count="100"/> <!-- [Event] Rx: Accelerox -->
 	</guide>
 	<guide title="adventurers_guide12_ely" level="12" race="ELYOS" rewardCount="1">
 		<message>
@@ -558,6 +572,20 @@
 		<select>Faith and arms!</select>
 		<survey itemId="187060162" count="1"/> <!-- Wings of Agony -->
 		<survey itemId="187000121" count="1"/> <!-- Hyperion Wings -->
+		<survey itemId="187060166" count="1"/> <!-- Trillirunerk's Ice Flame Feather -->
+	</guide>
+	<guide title="adventurers_guide19_ely" level="19" race="ELYOS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Congratulations!
+			<br><br>]]>
+		</message>
+		<reward_info>Por favor seleccione un item.</reward_info>
+		<select>Faith and arms!</select>
+		<survey itemId="187060194" count="1"/> <!-- Greatful Wings (1 day) -->
+		<survey itemId="187060197" count="1"/> <!-- Magma Wings (1-day) -->
+		<survey itemId="187060208" count="1"/> <!-- Red Armor Wings (1-day) -->
+		<survey itemId="187060191" count="1"/> <!-- Dragon Breath Wings (1-day) -->
 	</guide>
 	<guide title="adventurers_guide32_ely" level="32" race="ELYOS" rewardCount="1">
 		<message>
@@ -701,6 +729,7 @@
 		<survey itemId="110901042" count="1"/> <!-- All Business Outfit -->
 		<survey itemId="110900734" count="1"/> <!-- Cogwheel Couture (7 days) -->
 		<survey itemId="110900874" count="1"/> <!-- Silkwoven Scandal -->
+		<survey itemId="110900832" count="1"/> <!-- Astronaut's Costume (1 Day) -->
 	</guide>
 	<guide title="adventurers_guide50_ely" level="50" race="ELYOS" rewardCount="1">
 		<message>
@@ -861,6 +890,6 @@
 			<br><br>]]>
 		</message>
 		<select>Faith and arms!</select>
-		<survey itemId="162000023" count="100"/> <!-- Greater Healing Potion -->
+		<survey itemId="162000023" count="10"/> <!-- Greater Healing Potion -->
 	</guide>
 </guides>
